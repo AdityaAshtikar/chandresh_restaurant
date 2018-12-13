@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+#login{
+	padding:10em 0; 	
+}
+#base{padding:4em 0}
+.title{
+	color:#1CA0DE;
+        padding: 10px;
+}
+form.form label{padding-top: 7px;color: #1CA0DE;}
+
+.error{color:red;}
+.mytable{
+    width: 100%;
+}
+.mytable thead tr{
+    background: #000;
+}
+.mytable tr th{
+    padding: 10px !important;
+    color: white
+}
+
+.mytable tr th,.mytable tr td{
+    text-align: center;
+}
